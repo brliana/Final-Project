@@ -1,0 +1,147 @@
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\nikoa\source\repos\Semester 3\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\FINAL PROJECT\FinalProject2\FinalProject\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\nikoa\Downloads\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\FP Pemrog\FinalProject\FinalProject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\nikoa\Downloads\sabrina\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\nikoa\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.pdb
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\bin\Debug\FinalProject.exe.config
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\bin\Debug\FinalProject.exe
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\bin\Debug\FinalProject.pdb
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.Form1.resources
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.exe
+D:\FP Pemrog\FINAL PROJECT\FP_siap\FinalProject\obj\Debug\FinalProject.pdb
+C:\bljr\FP_siap\FP_siap\FinalProject\bin\Debug\FinalProject.exe.config
+C:\bljr\FP_siap\FP_siap\FinalProject\bin\Debug\FinalProject.exe
+C:\bljr\FP_siap\FP_siap\FinalProject\bin\Debug\FinalProject.pdb
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.exe
+C:\bljr\FP_siap\FP_siap\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\EntityFramework.dll
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\EntityFramework.xml
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geryr\Downloads\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\geryr\Downloads\FP_siap\FinalProject\obj\Debug\FinalProject.Gudang.resources
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\FinalProject.exe.config
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\FinalProject.exe
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\FinalProject.pdb
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.dll
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.dll
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.xml
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\bljr\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.xml
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.Gudang.resources
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.exe
+C:\bljr\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.Gudang.resources
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.LOGIN.resources
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Lenovo\OneDrive\Documents\Perkuliahan\Semester 3\Pemrograman Lanjut\APK\fp3[1]\fp3\FP_siap\FinalProject\obj\Debug\FinalProject.pdb
